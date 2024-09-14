@@ -21,7 +21,7 @@ import next from "./tech/next.png";
 import postgres from "./tech/postgres.png";
 import langchain from "./tech/langchain.png";
 
-import video_conferencing from "./video_conferencing.png";
+import video from "./video.png";
 import knowly from "./knowly.png";
 import realtime from "./realtime.png";
 import paytm from "./paytm.png";
@@ -48,7 +48,7 @@ export {
   reactjs,
   tailwind,
   typescript,
-  video_conferencing,
+  video,
   knowly,
   realtime,
   paytm,

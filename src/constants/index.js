@@ -14,7 +14,7 @@ import {
   mongodb,
   git,
   docker,
-  video_conferencing,
+  video,
   knowly,
   realtime,
   paytm,
@@ -178,7 +178,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: video_conferencing,
+    image: video,
     source_code_link: "https://github.com/Prathyarthi/vistaar_pdf",
   },
   {
