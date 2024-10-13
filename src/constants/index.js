@@ -3,25 +3,12 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  typescript,
-  next,
-  html,
-  css,
-  reactjs,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  docker,
   video,
   knowly,
   realtime,
   paytm,
   coldemail,
   scrape,
-  postgres,
-  langchain,
 } from "../assets";
 
 export const navLinks = [
@@ -55,61 +42,6 @@ const services = [
   {
     title: "Devops Engineer",
     icon: creator,
-  },
-];
-
-const technologies = [
-  {
-    name: "Next JS",
-    icon: next,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
-  {
-    name: "postgres",
-    icon: postgres,
-  },
-  {
-    name: "langchain",
-    icon: langchain,
   },
 ];
 
@@ -288,4 +220,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, experiences, projects };
